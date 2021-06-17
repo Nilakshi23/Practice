@@ -8,7 +8,7 @@ class Calculation {
 	
    public void Subtraction(int x, int y) {
       z = x - y;
-      System.out.println("The difference between the given numbers:"+z);
+      System.out.println("The differences between the given numbers:"+z);
    }
 }
 
